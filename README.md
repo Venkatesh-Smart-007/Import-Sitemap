@@ -25,3 +25,6 @@ COMMIT;
 Change your DB name, Username, password in sitemap.php
 Change your needed sitemap to import url in sitemap.php
 Finaly run it.
+
+# Our Sincere Thanks To
+PHP Simple HTML DOM Parser - https://simplehtmldom.sourceforge.io/
