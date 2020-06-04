@@ -11,7 +11,7 @@ if ($conn->connect_error) {
 }
 
 ini_set('user_agent', 'My-Application/2.5');
-include_once('../simple_html_dom.php');
+include_once('simple_html_dom.php');
 
 $html = file_get_html('https://www.example.com/sitemap.xml'); // Your Needed Sitemap Url
 
